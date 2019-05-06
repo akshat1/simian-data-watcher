@@ -1,0 +1,26 @@
+{
+  "name": "simian-data-watcher",
+  "version": "0.0.0",
+  "description": "Watching the data.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "mocha -r test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat1/simian-data-watcher.git"
+  },
+  "author": "akshat.sh@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/akshat1/simian-data-watcher/issues"
+  },
+  "homepage": "https://github.com/akshat1/simian-data-watcher#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
